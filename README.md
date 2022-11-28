@@ -11,4 +11,3 @@ I realised this project with the toturial from realpython.com
 
 Link to the turorial:
 https://realpython.com/api-integration-in-python/#rest-and-python-consuming-apis
------
